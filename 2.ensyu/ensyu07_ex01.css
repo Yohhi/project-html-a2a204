@@ -1,0 +1,16 @@
+table {
+  font-size: 1.2rem;
+  border: 2px solid;
+  border-collapse: collapse;
+}
+th {
+  border: 2px solid;
+  border-collapse: collapse;
+}
+td {
+  border: 2px solid;
+  border-collapse: collapse;
+}
+th{
+  background-color: #fbffb8;
+}
